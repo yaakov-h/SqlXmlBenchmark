@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SqlBenchmarker": {
+      "commandName": "Project",
+      "commandLineArgs": "System 1"
+    }
+  }
+}
